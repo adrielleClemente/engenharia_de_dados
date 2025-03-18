@@ -1,6 +1,6 @@
 # Engenharia de Dados - Growdev
 
-Portifólio com projetos produzidos no curso Engenharia de Dados da Growdev.
+Portifólio com projetos produzidos no curso Engenharia de Dados da [Growdev](https://www.growdev.com.br/).
 
 **Detalhes do Curso:** [Engenharia de Dados](https://www.growdev.com.br/formacoes/engenharia-de-dados)
 
