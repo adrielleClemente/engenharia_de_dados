@@ -4,7 +4,7 @@ Portifólio com projetos produzidos no curso Engenharia de Dados da [Growdev](ht
 
 **Detalhes do Curso:** [Formação Engenharia de Dados](https://www.growdev.com.br/formacoes/engenharia-de-dados)
 
-## Tópicos abordados na formação
+## Temas Abordados na Formação
 
 - **Programação aplicada com Python**
 - **Banco de dados relacional**
